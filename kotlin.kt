@@ -11,8 +11,8 @@ fun main() {
         "android" -> println("its android")
         "ios" -> println("its ios")
          else -> println("something different")
-         println("something different")
-         println("something different")
+         //println("something different")
+         //println("something different")
          
          
     }
